@@ -2,7 +2,7 @@
 My solutions to some exercises from "Thinking in C++, 2nd Edition" by Bruce Eckel. 
 
 **Topics covered:**
-* Data Abtraction
+* Data Abstraction
 * Inheritance and Composition
 * Objects
 * Operation/Function Overloading

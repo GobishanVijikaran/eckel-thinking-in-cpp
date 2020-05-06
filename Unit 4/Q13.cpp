@@ -10,7 +10,7 @@ rental management system. Include a print( ) member function that displays infor
 #include <string.h>
 #include <sstream>
 #include <fstream>
-#include "TMA2Question1.h"
+#include "Q13.h"
 
 using namespace std; 
 
@@ -66,7 +66,7 @@ int main(){
 	
 	dvd[size].fill_database(input, dvd, size); 
 
-	cout << "Welcome to COMP206 Video Rental!" << "\n" << endl; 
+	cout << "Welcome to [your] Video Rental!" << "\n" << endl; 
 	cout << "--------------------------------------------------------" << endl; 
 	cout << "Here are the DVDs we have: " << "\n" << endl; 
 
